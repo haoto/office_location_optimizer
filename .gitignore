@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# configuration files
+api_key
+origins
+destinations
+selectstation2010.asp
